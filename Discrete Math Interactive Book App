@@ -1,0 +1,10 @@
+Applications collects next type of userdata:
+- Device specifications such as:
+  - Screen properties
+  - Free space available
+- Username, specified by the user
+- Feedback, sent by the user
+- Application usage data
+- Crash logs.
+
+All types of data are not shared with any third party.
